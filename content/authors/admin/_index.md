@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Damien Eversmann
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Technologist and Educator<br />Chief Architect
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Red Hat
+    url: https://www.redhat.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: As Chief Architect for Education at Red Hat, Damien serves the role of
+  bridging the gap between the mission and the business of education and the
+  technologies and solutions that support it all. He has a penchant for teaching
+  and demonstration and anything else that gets him in front of people to share
+  the message of Continuous Learning, DevOps Culture, Innovation through
+  Automation and IT Modernization.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Higher Education
+  - Workforce Development
+  - IT Culture
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS Eng in Software and Information Systems
+      institution: University of Toledo, Ohio
+      year: ""
+    - course: BA in Theatre
+      institution: University of Toledo, Ohio
+      year: ""
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +44,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://twitter.com/DamienLive
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/eversmann
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/deversmann
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UCj6N-fth-U8H-PsD5VDyLMw
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,8 +72,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Damien has over 25 years of experience as an IT professional. Having spent the bulk of his career working in or in support of the public sector, he is somewhat of an expert when it comes to IT in government and higher education. Throughout his working life, Damien has served as a Developer, System Administrator, Development Manager, Enterprise Architect and Technology Director. Living the life of an Academic and Research Administrator has also given Damien a vast knowledge of and a healthy respect for regulations and compliance. He has worked on projects running the gamut from desktop-based widgets to major, multi-tiered applications, from small, embedded systems to many-faceted infrastructures.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+As Chief Architect for Education at Red Hat, Damien serves the role of bridging the gap between the mission and the business of education and the technologies and solutions that support it all. He has a penchant for teaching and demonstration and anything else that gets him in front of people to share the message of Continuous Learning, DevOps Culture, Innovation through Automation and IT Modernization.
