@@ -9,7 +9,7 @@ Damien has over 25 years of experience as an IT professional.  Having spent the 
 
 ### Photos for Publication
 
-{{< gallery album="headshots" resize_options="250x250" >}}
+{{< gallery album="headshots" resize_options="200x200" >}}
 
 ### Certifications
 
