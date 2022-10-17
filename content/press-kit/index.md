@@ -13,4 +13,6 @@ Damien has over 25 years of experience as an IT professional.  Having spent the 
 
 ### Certifications
 
-<a href="https://rhtapps.redhat.com/certifications/badge/verify/TKTO7OS6YC7EJ5K5BPTWAJ2S3MAEQU3CUPSQX2KSDXT6RW46LQ33TZNCC5VGOAYPFY7HVVIGB5XKUTI5W6QLZX6UMV3D6ILAY7YA4GY="><img style="width:480px" src="https://rhtapps.redhat.com/certifications/badge/download/TKTO7OS6YC7EJ5K5BPTWAJ2S3MAEQU3CUPSQX2KSDXT6RW46LQ33TZNCC5VGOAYPFY7HVVIGB5XKUTI5W6QLZX6UMV3D6ILAY7YA4GY=?download" /></a><a href="https://rhtapps.redhat.com/certifications/badge/verify/TKTO7OS6YC7EJ5K5BPTWAJ2S3MAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="><img style="width:480px" src="https://rhtapps.redhat.com/certifications/badge/download/TKTO7OS6YC7EJ5K5BPTWAJ2S3MAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=?download" /></a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eda67bd7-431a-45fb-9a5a-cb441a94840e" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f7a93fc8-ed1c-4b1d-903c-3269a1704d5c" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
