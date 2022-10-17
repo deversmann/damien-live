@@ -13,6 +13,6 @@ Damien has over 25 years of experience as an IT professional.  Having spent the 
 
 ### Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eda67bd7-431a-45fb-9a5a-cb441a94840e" data-share-badge-host="https://www.credly.com"></div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f7a93fc8-ed1c-4b1d-903c-3269a1704d5c" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="250" data-iframe-height="400" data-share-badge-id="eda67bd7-431a-45fb-9a5a-cb441a94840e" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="250" data-iframe-height="400" data-share-badge-id="f7a93fc8-ed1c-4b1d-903c-3269a1704d5c" data-share-badge-host="https://www.credly.com"></div>
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
