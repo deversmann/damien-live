@@ -23,8 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://www.credly.com/badges/7757eb14-613d-48f5-a2a3-633706c85c5a/public_url
+    date_end: ''
+    date_start: '2022-12-20'
+    description: 'Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.'
+    organization: Microsoft
+    organization_url: https://www.microsoft.com/
+    title: 'Microsoft Certified: Azure Fundamentals'
+    url: ''
   - certificate_url: https://www.credly.com/badges/eda67bd7-431a-45fb-9a5a-cb441a94840e/public_url
-    image: https://images.credly.com/size/340x340/images/1dd8824f-d6b6-4967-906a-7bd3c0063fae/image.png
     date_end: '2024-12-28'
     date_start: '2021-12-28'
     description: 'A Red Hat Certified Specialist in Containers and Kubernetes has demonstrated a basic understanding of Kubernetes, containers, and Red Hat OpenShift® and can use this knowledge to run, find, and manage containerized services, deploy single- and multiple-container applications, and create custom containers. The credential is earned after successfully passing the Red Hat Certified Specialist in Containers and Kubernetes exam (EX180).'
@@ -34,7 +41,7 @@ item:
     url: ''
   - certificate_url: https://www.credly.com/badges/f7a93fc8-ed1c-4b1d-903c-3269a1704d5c/public_url
     date_end: '2024-12-28'
-    date_start: '2021-01-01'
+    date_start: '2021-05-02'
     description: 'An IT professional who has earned the Red Hat Certified System Administrator (RHCSA®) is able to perform the core system administration skills required in Red Hat Enterprise Linux environments. The credential is earned after successfully passing the Red Hat Certified System Administrator (RHCSA) Exam (EX200).'
     organization: Red Hat
     organization_url: https://www.redhat.com
@@ -50,5 +57,5 @@ item:
     url: 
 
 design:
-  columns: '1'
+  columns: '3'
 ---
