@@ -17,9 +17,9 @@ Damien has over 25 years of experience as an IT professional.  Having spent the 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eda67bd7-431a-45fb-9a5a-cb441a94840e" data-share-badge-host="https://www.credly.com"></div>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f7a93fc8-ed1c-4b1d-903c-3269a1704d5c" data-share-badge-host="https://www.credly.com"></div>
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div style="width: 150px; height: 270px; border: 1px solid #e5e5e5; color: #333; font-family: Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: .88rem; padding: 22px 0 0; text-align: center; border-radius: 3px;" src="https://www.credential.net/embed/b97f2073-e672-42e4-9489-8eaaecd3d825" width="150" height="270" frameborder="0" allowfullscreen>
+<span style="width: 150px; height: 270px; border: 1px solid #e5e5e5; color: #333; font-family: Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: .88rem; padding: 22px 0 0; text-align: center; border-radius: 3px;" src="https://www.credential.net/embed/b97f2073-e672-42e4-9489-8eaaecd3d825" width="150" height="270" frameborder="0" allowfullscreen>
     <a target="_blank" href="https://www.credential.net/b97f2073-e672-42e4-9489-8eaaecd3d825" style="text-decoration: none">
         <img style="margin: 0 0 22px;" width="105" height="105" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13052289" />
         <span style="color: #333; display: block; font-size: 1rem; line-height: 1.1em; margin: 0 8px 8px;">Demo2Win!</span></a>
     <span style="color: #666; font-size: .81rem; font-style: italic; line-height: 1.1em; margin: 0 8px; max-width: 100%; overflow: hidden;">Issuer: 2Win!</span>
-</div>
+</span>
