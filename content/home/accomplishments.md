@@ -39,6 +39,14 @@ item:
     organization: Red Hat
     organization_url: https://www.redhat.com
     title: Red Hat® Certified System Administrator (RHCSA®)
+    url: ''
+  - certificate_url: https://www.credential.net/b97f2073-e672-42e4-9489-8eaaecd3d825
+    date_end: ''
+    date_start: '2019-05-22'
+    description: 'Sales-led overviews and qualifying demos require unique skills that you’ll only learn in Demo2Win! You’ll discover our secrets to moving your opportunities forward with demo techniques and strategies that close more deals.'
+    organization: 2Win!
+    organization_url: https://2winglobal.com
+    title: Demo2Win!
     url: 
 
 design:
