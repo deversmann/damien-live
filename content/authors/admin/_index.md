@@ -76,4 +76,4 @@ Damien has over 25 years of experience as an IT professional. Having spent the b
 
 As Chief Architect for Education at Red Hat, Damien serves the role of bridging the gap between the mission and the business of education and the technologies and solutions that support it all. He has a penchant for teaching and demonstration and anything else that gets him in front of people to share the message of Continuous Learning, DevOps Culture, Innovation through Automation and IT Modernization.
 
-{{$Params.bio}}
+{{ $author_page.Params.bio }}
