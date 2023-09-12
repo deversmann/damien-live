@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://edscoop.com/list/announcing-the-winners-of-the-2022-edscoop-50-awards/#damien-eversmann
     date_end: ''
-    date_start: '2022'
+    date_start: '2022-11-01'
     description: 'The awards, in their first year, honor the most influential people in the higher education technology community, along with the most innovative projects that make a positive impact across universities.'
     organization: EdScoop - Scoop News Group
     organization_url: https://edscoop.com/
