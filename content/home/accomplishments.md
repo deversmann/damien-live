@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://edscoop.com/list/announcing-the-winners-of-the-2022-edscoop-50-awards/#damien-eversmann
+    date_end: ''
+    date_start: '2022'
+    description: 'The awards, in their first year, honor the most influential people in the higher education technology community, along with the most innovative projects that make a positive impact across universities.'
+    organization: EdScoop - Scoop News Group
+    organization_url: https://edscoop.com/
+    title: 'Industry Leader of the Year'
+    url: ''
   - certificate_url: https://www.credly.com/badges/7757eb14-613d-48f5-a2a3-633706c85c5a/public_url
     date_end: ''
     date_start: '2022-12-20'
