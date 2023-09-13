@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2022-11-01'
     description: 'The awards, in their first year, honor the most influential people in the higher education technology community, along with the most innovative projects that make a positive impact across universities.'
-    organization: EdScoop - Scoop News Group
+    organization: EdScoop
     organization_url: https://edscoop.com/
     title: 'Industry Leader of the Year'
     url: ''
